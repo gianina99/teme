@@ -1,0 +1,61 @@
+
+1. Metode de proiectarea algoritmilor - Proiectarea modulara
+
+1.1 Subprograme.
+Notiunea de subprogram.
+Tipuri de subprograme.
+Structura subprogramelor: 
+Transmiterea parametrilor: parametri (actuali, formali, corespondenţa), transmitere prin valoare, transmitere prin referinţă/adresă.
+Apelul subprogramelor: utilizarea apelului în cadrul expresiilor, apel de tip instrucţiune, autoapelare (recursivitate).
+
+1.2 Modularizarea programelor
+Variabile globale şi locale, 
+Domeniul de vizibilitate, 
+Integrarea subprogramelor în cadrul programului
+
+2.  Metode de proiectarea algoritmilor - Programarea structurata. Principii.
+Instructiunile simple ale limbajului.
+Structuri de decizie/alternative: cu o singură ramură, cu două ramuri, selecţie multiplă (case / switch)
+Structuri repetitive: cu test iniţial, cu test final, cu număr cunoscut de paşi, scrierea de programe echivalente.
+
+Metode de proiectarea algoritmilor - Proiectarea modulara
+
+1.1 Subprograme si parametri
+Definirea unei functii pentru afisarea unui text primit ca parametru
+Returnarea unui text din interiorul unei functii si afisarea acestuia.
+Transmiterea parametrilor conform numarului, pozitiei si a tipului  acestora.
+Identificarea domeniului de vizibilitate a variabilelor, declararea locala, globala a variabilelor
+Apelarea functiilor cu parametri, ca metode pentru obiecte, in mod recursiv, cu temporizare
+Aplicatii practice pentru apelarea functiilor din alte functii, returnarea rezultatelor in interiorul expresiilor, functii care returneaza rezultatul unor operatii simple ca adunarea, scaderea, impartirea etc.
+
+
+2.  Metode de proiectarea algoritmilor - Programarea structurata
+
+Operatorii de atribuire, interschimbarea continutului a doua variabile
+
+Instructiunea if. Aplicatii: program arie triunghi, ecuatie de gradul 1, verificare numar par/impar, maximul a 3 numere
+
+Structuri repetitive: sintaxa instructiunilor for si while
+Aplicatii : Afisarea primelor n numere naturale, n numere pare/impare, divizori, numere prime, probleme cu cifre are unor numere,
+
+
+
+
+
+
+Doresc la aceasta tema sa definiti, sa dati exemple, si sa recititi pentru ca urmeaza un examen curand :) 
+
+Tema trebuie postata pe github, iar pe chat sa dati link-ul de la tema
+
+Cu tema aceasta ne reluam activitatea, iar de saptamana viitoare intram in paine 
+
+Tema valabila pana Duminica, cine poate mai devreme pana marti ( 13 feb ) 
+
+
+
+
+
+
+
+
+
